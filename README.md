@@ -16,3 +16,7 @@ TASK DESCRIPTION:
 The dashboard I created can be applied in real-world business environments such as Sales Analysis ,Marketing Campaign Monitoring,Finance and Budgeting,Operations Management , etc.
 
 In short, this type of dashboard is highly valuable in any business scenario where decision-making is driven by real-time data and visual insights.
+
+
+OUTPUT
+<img width="1260" height="763" alt="Image" src="https://github.com/user-attachments/assets/fee516be-24bc-469a-b68f-1d95fa9fb4f8" />
